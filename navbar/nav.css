@@ -19,3 +19,14 @@ nav{
     border-bottom: 1px solid #d8d8d8;
     background-color: white;
 }
+
+.nav-div-one{
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-image{
+    width: 120px;
+}
