@@ -37,3 +37,16 @@ nav{
     justify-content: space-around;
     align-items: center;
 }
+
+.nav-div-two a{
+    text-decoration: none;
+    color: #0b930b;
+    font-size: 20px;
+    border-radius: 3px;
+    padding: 5px;
+    border: 1px solid transparent; /* Initially set to transparent */
+}
+
+.nav-div-two a:hover{
+    border: 1px solid green; /* Apply a green border on hover */
+}
